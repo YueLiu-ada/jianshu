@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/jianshu/static/js/main.84d0b1db.chunk.js",
+    "main.js.map": "/jianshu/static/js/main.84d0b1db.chunk.js.map",
+    "runtime-main.js": "/jianshu/static/js/runtime-main.a1a97a55.js",
+    "runtime-main.js.map": "/jianshu/static/js/runtime-main.a1a97a55.js.map",
+    "static/js/2.ddb6bbe5.chunk.js": "/jianshu/static/js/2.ddb6bbe5.chunk.js",
+    "static/js/2.ddb6bbe5.chunk.js.map": "/jianshu/static/js/2.ddb6bbe5.chunk.js.map",
+    "static/js/3.3d08b21c.chunk.js": "/jianshu/static/js/3.3d08b21c.chunk.js",
+    "static/js/3.3d08b21c.chunk.js.map": "/jianshu/static/js/3.3d08b21c.chunk.js.map",
+    "index.html": "/jianshu/index.html",
+    "precache-manifest.0366ace5f4c56388858722fcae11f7d7.js": "/jianshu/precache-manifest.0366ace5f4c56388858722fcae11f7d7.js",
+    "service-worker.js": "/jianshu/service-worker.js",
+    "static/js/2.ddb6bbe5.chunk.js.LICENSE.txt": "/jianshu/static/js/2.ddb6bbe5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1a97a55.js",
+    "static/js/2.ddb6bbe5.chunk.js",
+    "static/js/main.84d0b1db.chunk.js"
+  ]
+}
